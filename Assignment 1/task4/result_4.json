@@ -1,0 +1,761 @@
+[
+  {
+    _id: ObjectId("6345874eb314aa8613f97ad7"),
+    sex: 'Male',
+    first_name: 'Anthony',
+    last_name: 'Nichols',
+    job: 'Internal Auditor',
+    email: 'anichols3@google.co.uk',
+    location: {
+      city: 'Jepuro',
+      address: { streetname: 'La Follette', streetnumber: '03661' }
+    },
+    description: 'ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar',
+    height: '162.68',
+    weight: '68.37',
+    birth_date: '2013-05-23T16:10:58Z',
+    nationality: 'Indonesia',
+    credit: [
+      {
+        type: 'jcb',
+        number: '4017957170327',
+        currency: 'RUB',
+        balance: '4463.86'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97ad8"),
+    sex: 'Female',
+    first_name: 'Kathryn',
+    last_name: 'Hanson',
+    job: 'Staff Scientist',
+    email: 'khanson4@addtoany.com',
+    location: {
+      city: 'Marks',
+      address: { streetname: 'Emmet', streetnumber: '115' }
+    },
+    description: 'lobortis sapien sapien non mi integer ac neque duis bibendum morbi',
+    height: '174.93',
+    weight: '66.37',
+    birth_date: '1949-05-30T21:09:16Z',
+    nationality: 'Russia',
+    credit: [
+      {
+        type: 'maestro',
+        number: '3579903324857689',
+        currency: 'SEK',
+        balance: '4818.97'
+      },
+      {
+        type: 'jcb',
+        number: '3555428247044700',
+        currency: 'BRL',
+        balance: '3956.68'
+      },
+      {
+        type: 'maestro',
+        number: '3543742811477335',
+        currency: 'SEK',
+        balance: '4993.25'
+      },
+      {
+        type: 'mastercard',
+        number: '374288616031802',
+        currency: 'MMK',
+        balance: '4818.37'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97ad9"),
+    sex: 'Female',
+    first_name: 'Brenda',
+    last_name: 'Gonzalez',
+    job: 'Librarian',
+    email: 'bgonzalez5@github.com',
+    location: {
+      city: 'Glagahan',
+      address: { streetname: 'Union', streetnumber: '88' }
+    },
+    description: 'ac nibh fusce lacus purus aliquet at feugiat non pretium quis',
+    height: '174.56',
+    weight: '68.14',
+    birth_date: '2011-11-04T22:35:37Z',
+    nationality: 'Indonesia',
+    credit: [
+      {
+        type: 'jcb',
+        number: '5007660999443305',
+        currency: 'RSD',
+        balance: '5328.58'
+      },
+      {
+        type: 'switch',
+        number: '5602246288423007',
+        currency: 'SEK',
+        balance: '5115.83'
+      },
+      {
+        type: 'jcb',
+        number: '3555629611566737',
+        currency: 'EUR',
+        balance: '6050.21'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97adb"),
+    sex: 'Male',
+    first_name: 'Jose',
+    last_name: 'Reynolds',
+    job: 'Senior Developer',
+    email: 'jreynolds7@dagondesign.com',
+    location: {
+      city: 'Watuagung',
+      address: { streetname: 'Red Cloud', streetnumber: '393' }
+    },
+    description: 'condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque',
+    height: '165.91',
+    weight: '67.03',
+    birth_date: '1978-04-17T18:22:07Z',
+    nationality: 'Indonesia',
+    credit: [
+      {
+        type: 'jcb',
+        number: '3529195112892553',
+        currency: 'ILS',
+        balance: '4265.17'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97ade"),
+    sex: 'Female',
+    first_name: 'Helen',
+    last_name: 'Austin',
+    job: 'Chief Design Engineer',
+    email: 'haustina@comcast.net',
+    location: {
+      city: 'Banjar Parekan',
+      address: { streetname: 'Arkansas', streetnumber: '4142' }
+    },
+    description: 'nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est',
+    height: '171.01',
+    weight: '68.53',
+    birth_date: '1990-11-05T07:39:24Z',
+    nationality: 'Indonesia',
+    credit: [
+      {
+        type: 'maestro',
+        number: '5217888987954209',
+        currency: 'SEK',
+        balance: '4979.53'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97adf"),
+    sex: 'Female',
+    first_name: 'Sharon',
+    last_name: 'Franklin',
+    job: 'Budget/Accounting Analyst IV',
+    email: 'sfranklinb@census.gov',
+    location: {
+      city: 'Chuncheon',
+      address: { streetname: 'Milwaukee', streetnumber: '6' }
+    },
+    description: 'mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem',
+    height: '158.06',
+    weight: '63.91',
+    birth_date: '1967-02-02T09:23:25Z',
+    nationality: 'South Korea',
+    credit: [
+      {
+        type: 'jcb',
+        number: '4405889238820947',
+        currency: 'NGN',
+        balance: '6277.11'
+      },
+      {
+        type: 'jcb',
+        number: '5537166354442931',
+        currency: 'CNY',
+        balance: '3958.21'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97ae0"),
+    sex: 'Female',
+    first_name: 'Frances',
+    last_name: 'Romero',
+    job: 'Project Manager',
+    email: 'fromeroc@ted.com',
+    location: {
+      city: 'Yantang',
+      address: { streetname: 'Holy Cross', streetnumber: '33801' }
+    },
+    description: 'non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit',
+    height: '179.89',
+    weight: '67.8',
+    birth_date: '1954-03-25T11:51:38Z',
+    nationality: 'China',
+    credit: [
+      {
+        type: 'instapayment',
+        number: '3581609550731672',
+        currency: 'CZK',
+        balance: '5658.66'
+      },
+      {
+        type: 'visa-electron',
+        number: '6379796541338409',
+        currency: 'PLN',
+        balance: '4280.15'
+      },
+      {
+        type: 'diners-club-international',
+        number: '3539516040777020',
+        currency: 'LKR',
+        balance: '5402.31'
+      },
+      {
+        type: 'jcb',
+        number: '5602223447727826',
+        currency: 'CNY',
+        balance: '4653.86'
+      },
+      {
+        type: 'jcb',
+        number: '3529854509994014',
+        currency: 'ARS',
+        balance: '4944.8'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97ae2"),
+    sex: 'Male',
+    first_name: 'Lawrence',
+    last_name: 'Lawson',
+    job: 'Product Engineer',
+    email: 'llawsone@archive.org',
+    location: {
+      city: 'Gambiran',
+      address: { streetname: 'Sachs', streetnumber: '09' }
+    },
+    description: 'tempus semper est quam pharetra magna ac consequat metus sapien ut',
+    height: '163.79',
+    weight: '68.12',
+    birth_date: '1967-09-26T15:46:34Z',
+    nationality: 'Indonesia',
+    credit: [
+      {
+        type: 'jcb',
+        number: '5010120342068676',
+        currency: 'EUR',
+        balance: '4749.03'
+      },
+      {
+        type: 'diners-club-enroute',
+        number: '3582662710334209',
+        currency: 'BRL',
+        balance: '6496.93'
+      },
+      {
+        type: 'jcb',
+        number: '3544532341363322',
+        currency: 'CNY',
+        balance: '3361.0'
+      },
+      {
+        type: 'jcb',
+        number: '201474924813870',
+        currency: 'PAB',
+        balance: '5507.03'
+      },
+      {
+        type: 'jcb',
+        number: '201401427144529',
+        currency: 'NOK',
+        balance: '5340.33'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97ae3"),
+    sex: 'Male',
+    first_name: 'Ernest',
+    last_name: 'Ortiz',
+    job: 'Social Worker',
+    email: 'eortizf@state.tx.us',
+    location: {
+      city: 'Zhongcheng',
+      address: { streetname: 'Dahle', streetnumber: '4319' }
+    },
+    description: 'consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent',
+    height: '179.17',
+    weight: '67.09',
+    birth_date: '2008-07-23T02:45:20Z',
+    nationality: 'China',
+    credit: [
+      {
+        type: 'maestro',
+        number: '201508948540843',
+        currency: 'THB',
+        balance: '5512.85'
+      },
+      {
+        type: 'jcb',
+        number: '4844504000289788',
+        currency: 'SEK',
+        balance: '4188.39'
+      },
+      {
+        type: 'mastercard',
+        number: '3560760172372810',
+        currency: 'EUR',
+        balance: '4869.67'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97ae4"),
+    sex: 'Male',
+    first_name: 'Patrick',
+    last_name: 'Jacobs',
+    job: 'Legal Assistant',
+    email: 'pjacobsg@cloudflare.com',
+    location: {
+      city: 'São Manços',
+      address: { streetname: 'School', streetnumber: '42' }
+    },
+    description: 'lectus suspendisse potenti in eleifend quam a odio in hac',
+    height: '153.32',
+    weight: '68.58',
+    birth_date: '1941-12-07T00:47:12Z',
+    nationality: 'Portugal',
+    credit: [
+      {
+        type: 'jcb',
+        number: '3538118560561693',
+        currency: 'ARS',
+        balance: '5080.43'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97ae6"),
+    sex: 'Female',
+    first_name: 'Lillian',
+    last_name: 'Vasquez',
+    job: 'Senior Quality Engineer',
+    email: 'lvasquezi@aol.com',
+    location: {
+      city: 'Rust’avi',
+      address: { streetname: 'Riverside', streetnumber: '51587' }
+    },
+    description: 'ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus',
+    height: '169.21',
+    weight: '67.92',
+    birth_date: '1974-12-07T09:43:18Z',
+    nationality: 'Georgia',
+    credit: [
+      {
+        type: 'jcb',
+        number: '6378582848611453',
+        currency: 'IDR',
+        balance: '4257.53'
+      },
+      {
+        type: 'jcb',
+        number: '3541289098806754',
+        currency: 'EUR',
+        balance: '4587.73'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97ae8"),
+    sex: 'Male',
+    first_name: 'Gregory',
+    last_name: 'Anderson',
+    job: 'Geological Engineer',
+    email: 'ganderson1@netscape.com',
+    location: {
+      city: 'Caminaca',
+      address: { streetname: 'Kipling', streetnumber: '424' }
+    },
+    description: 'donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in',
+    height: '154.61',
+    weight: '67.3',
+    birth_date: '2002-09-27T05:44:11Z',
+    nationality: 'Peru',
+    credit: [
+      {
+        type: 'laser',
+        number: '5586087121891962',
+        currency: 'IDR',
+        balance: '5512.36'
+      },
+      {
+        type: 'bankcard',
+        number: '5010120787942724',
+        currency: 'CNY',
+        balance: '5190.65'
+      },
+      {
+        type: 'mastercard',
+        number: '201768421731919',
+        currency: 'CNY',
+        balance: '6414.82'
+      },
+      {
+        type: 'americanexpress',
+        number: '3582797025806663',
+        currency: 'CDF',
+        balance: '6365.42'
+      },
+      {
+        type: 'jcb',
+        number: '6376881458117617',
+        currency: 'PLN',
+        balance: '5408.84'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97ae9"),
+    sex: 'Male',
+    first_name: 'Wayne',
+    last_name: 'Fields',
+    job: 'Speech Pathologist',
+    email: 'wfields0@diigo.com',
+    location: {
+      city: 'Oyo',
+      address: { streetname: 'Beilfuss', streetnumber: '860' }
+    },
+    description: 'vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris',
+    height: '152.38',
+    weight: '66.81',
+    birth_date: '1990-02-21T02:55:03Z',
+    nationality: 'Nigeria',
+    credit: [
+      {
+        type: 'switch',
+        number: '6759888939100098699',
+        currency: 'COP',
+        balance: '5117.06'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97aec"),
+    sex: 'Female',
+    first_name: 'Pamela',
+    last_name: 'Lopez',
+    job: 'Tax Accountant',
+    email: 'plopezn@sbwire.com',
+    location: {
+      city: 'Danyang',
+      address: { streetname: 'Sutherland', streetnumber: '9335' }
+    },
+    description: 'nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc',
+    height: '164.68',
+    weight: '63.46',
+    birth_date: '1957-05-12T12:17:57Z',
+    nationality: 'China',
+    credit: [
+      {
+        type: 'diners-club-carte-blanche',
+        number: '67064004719873501',
+        currency: 'XOF',
+        balance: '4338.62'
+      },
+      {
+        type: 'jcb',
+        number: '502004645577749859',
+        currency: 'TJS',
+        balance: '4899.58'
+      },
+      {
+        type: 'visa',
+        number: '5602243817535120',
+        currency: 'CNY',
+        balance: '5582.41'
+      },
+      {
+        type: 'jcb',
+        number: '3570167767040802',
+        currency: 'PHP',
+        balance: '4841.85'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97aed"),
+    sex: 'Male',
+    first_name: 'Ralph',
+    last_name: 'Austin',
+    job: 'Pharmacist',
+    email: 'raustinm@stumbleupon.com',
+    location: {
+      city: 'Povorino',
+      address: { streetname: 'Cordelia', streetnumber: '635' }
+    },
+    description: 'nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et',
+    height: '175.23',
+    weight: '65.42',
+    birth_date: '2011-12-13T02:13:40Z',
+    nationality: 'Russia',
+    credit: [
+      {
+        type: 'laser',
+        number: '3582874312331703',
+        currency: 'HNL',
+        balance: '3389.34'
+      },
+      {
+        type: 'switch',
+        number: '3563592821576799',
+        currency: 'MXN',
+        balance: '4640.36'
+      },
+      {
+        type: 'jcb',
+        number: '337941360331267',
+        currency: 'CNY',
+        balance: '3876.71'
+      },
+      {
+        type: 'diners-club-enroute',
+        number: '370855147469018',
+        currency: 'CNY',
+        balance: '3287.77'
+      },
+      {
+        type: 'jcb',
+        number: '0604592124788916',
+        currency: 'CNY',
+        balance: '4992.77'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97af0"),
+    sex: 'Female',
+    first_name: 'Julia',
+    last_name: 'Chapman',
+    job: 'Professor',
+    email: 'jchapmanq@zdnet.com',
+    location: {
+      city: 'Hagonoy',
+      address: { streetname: 'Manley', streetnumber: '2714' }
+    },
+    description: 'ac nulla sed vel enim sit amet nunc viverra dapibus nulla',
+    height: '173.12',
+    weight: '63.54',
+    birth_date: '1986-07-17T16:27:06Z',
+    nationality: 'Philippines',
+    credit: [
+      {
+        type: 'diners-club-us-ca',
+        number: '3534050093234908',
+        currency: 'RUB',
+        balance: '5400.83'
+      },
+      {
+        type: 'jcb',
+        number: '3574647846123907',
+        currency: 'USD',
+        balance: '5654.37'
+      },
+      {
+        type: 'diners-club-carte-blanche',
+        number: '3572767028835672',
+        currency: 'MXN',
+        balance: '5781.05'
+      },
+      {
+        type: 'maestro',
+        number: '3587493760217903',
+        currency: 'JPY',
+        balance: '5367.01'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97af1"),
+    sex: 'Female',
+    first_name: 'Marilyn',
+    last_name: 'Gonzalez',
+    job: 'Physical Therapy Assistant',
+    email: 'mgonzalezr@patch.com',
+    location: {
+      city: 'Pingshan',
+      address: { streetname: 'Prairie Rose', streetnumber: '72' }
+    },
+    description: 'turpis a pede posuere nonummy integer non velit donec diam neque vestibulum',
+    height: '157.04',
+    weight: '71.38',
+    birth_date: '1944-07-23T19:11:32Z',
+    nationality: 'China',
+    credit: [
+      {
+        type: 'switch',
+        number: '5105897816827440',
+        currency: 'ARS',
+        balance: '5622.45'
+      },
+      {
+        type: 'jcb',
+        number: '3574522187008860',
+        currency: 'IDR',
+        balance: '2800.36'
+      },
+      {
+        type: 'visa',
+        number: '6759753264598684054',
+        currency: 'COP',
+        balance: '4076.81'
+      },
+      {
+        type: 'maestro',
+        number: '3585089079276820',
+        currency: 'UAH',
+        balance: '4268.35'
+      },
+      {
+        type: 'china-unionpay',
+        number: '201496495978998',
+        currency: 'SEK',
+        balance: '5686.73'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97af3"),
+    sex: 'Male',
+    first_name: 'Larry',
+    last_name: 'Fields',
+    job: 'Research Associate',
+    email: 'lfieldsv@themeforest.net',
+    location: {
+      city: 'Wonokerso',
+      address: { streetname: 'Lakeland', streetnumber: '2841' }
+    },
+    description: 'convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit',
+    height: '170.69',
+    weight: '66.76',
+    birth_date: '1950-11-18T20:30:56Z',
+    nationality: 'Indonesia',
+    credit: [
+      {
+        type: 'jcb',
+        number: '3580835970351913',
+        currency: 'PHP',
+        balance: '5007.95'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97af5"),
+    sex: 'Female',
+    first_name: 'Margaret',
+    last_name: 'Graham',
+    job: 'Sales Representative',
+    email: 'mgrahamu@apple.com',
+    location: {
+      city: 'Olival Basto',
+      address: { streetname: 'Gateway', streetnumber: '6447' }
+    },
+    description: 'non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci',
+    height: '164.83',
+    weight: '65.22',
+    birth_date: '1962-11-07T19:43:16Z',
+    nationality: 'Portugal',
+    credit: [
+      {
+        type: 'mastercard',
+        number: '3550670714951611',
+        currency: 'CAD',
+        balance: '5358.2'
+      },
+      {
+        type: 'switch',
+        number: '3549906554493189',
+        currency: 'VND',
+        balance: '5677.47'
+      },
+      {
+        type: 'switch',
+        number: '201597524716158',
+        currency: 'USD',
+        balance: '2626.2'
+      },
+      {
+        type: 'jcb',
+        number: '3588273191396875',
+        currency: 'RUB',
+        balance: '5654.88'
+      },
+      {
+        type: 'jcb',
+        number: '346086248349237',
+        currency: 'PLN',
+        balance: '5123.08'
+      }
+    ]
+  },
+  {
+    _id: ObjectId("6345874eb314aa8613f97af6"),
+    sex: 'Female',
+    first_name: 'Paula',
+    last_name: 'Hunt',
+    job: 'Design Engineer',
+    email: 'phuntx@themeforest.net',
+    location: {
+      city: 'Vsevolozhsk',
+      address: { streetname: 'Daystar', streetnumber: '9' }
+    },
+    description: 'pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate',
+    height: '158.55',
+    weight: '69.28',
+    birth_date: '2009-07-02T00:27:10Z',
+    nationality: 'Russia',
+    credit: [
+      {
+        type: 'americanexpress',
+        number: '201916112056779',
+        currency: 'USD',
+        balance: '5755.34'
+      },
+      {
+        type: 'visa-electron',
+        number: '4026529980909550',
+        currency: 'EUR',
+        balance: '4197.52'
+      },
+      {
+        type: 'diners-club-carte-blanche',
+        number: '3577215425987592',
+        currency: 'SEK',
+        balance: '4355.67'
+      },
+      {
+        type: 'jcb',
+        number: '3562949646731192',
+        currency: 'EUR',
+        balance: '4454.54'
+      },
+      {
+        type: 'switch',
+        number: '3535280278749094',
+        currency: 'PEN',
+        balance: '3800.69'
+      }
+    ]
+  }
+]
+Type "it" for more

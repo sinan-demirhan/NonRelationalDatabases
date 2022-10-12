@@ -1,0 +1,1 @@
+printjson(db.people.find({"birth_date":{"$gt": "2002-09-01T03:20:22Z"}},{first_name:1,last_name:1,"location.city":1}))
