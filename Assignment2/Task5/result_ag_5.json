@@ -1,0 +1,39 @@
+[
+  { _id: 'EGP', 'Total Amount': 5579.3, 'Average Amount': 5579.3 },
+  { _id: 'KRW', 'Total Amount': 13379.82, 'Average Amount': 6689.91 },
+  { _id: 'VEF', 'Total Amount': 8333.28, 'Average Amount': 4166.64 },
+  { _id: 'RSD', 'Total Amount': 4276.56, 'Average Amount': 4276.56 },
+  { _id: 'MWK', 'Total Amount': 3574.42, 'Average Amount': 3574.42 },
+  { _id: 'PKR', 'Total Amount': 18938, 'Average Amount': 4734.5 },
+  { _id: 'GBP', 'Total Amount': 6149.19, 'Average Amount': 6149.19 },
+  { _id: 'MMK', 'Total Amount': 4629.42, 'Average Amount': 4629.42 },
+  { _id: 'ZWL', 'Total Amount': 5792.17, 'Average Amount': 5792.17 },
+  { _id: 'MNT', 'Total Amount': 21715.61, 'Average Amount': 5428.9025 },
+  {
+    _id: 'JPY',
+    'Total Amount': 60944.74,
+    'Average Amount': 5078.7283333333335
+  },
+  { _id: 'ZMW', 'Total Amount': 5569.56, 'Average Amount': 5569.56 },
+  { _id: 'RWF', 'Total Amount': 4632.88, 'Average Amount': 4632.88 },
+  { _id: 'KZT', 'Total Amount': 3788.95, 'Average Amount': 3788.95 },
+  {
+    _id: 'PEN',
+    'Total Amount': 23227.35,
+    'Average Amount': 4645.469999999999
+  },
+  { _id: 'HRK', 'Total Amount': 24354.82, 'Average Amount': 4870.964 },
+  { _id: 'MXN', 'Total Amount': 50229, 'Average Amount': 5022.9 },
+  {
+    _id: 'SEK',
+    'Total Amount': 70840.19,
+    'Average Amount': 5060.013571428572
+  },
+  { _id: 'ISK', 'Total Amount': 4316.41, 'Average Amount': 4316.41 },
+  {
+    _id: 'PHP',
+    'Total Amount': 118606.28,
+    'Average Amount': 4941.928333333333
+  }
+]
+Type "it" for more
